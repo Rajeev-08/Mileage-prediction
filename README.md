@@ -1,13 +1,10 @@
 # 🚗 Mileage Prediction - Regression Analysis  
 
-> **A machine learning project to predict fuel efficiency (mpg) based on car attributes using the Auto MPG dataset.**  
+> **This project builds a **regression model** to predict **miles per gallon (mpg)** using various car attributes like **cylinders, horsepower, weight, and displacement**. It uses **Linear Regression** from scikit-learn and evaluates model performance using **R² score and Mean Squared Error (MSE)**.**  
 
 ---
 
-## 📌 About  
-This project builds a **regression model** to predict **miles per gallon (mpg)** using various car attributes like **cylinders, horsepower, weight, and displacement**. It uses **Linear Regression** from scikit-learn and evaluates model performance using **R² score and Mean Squared Error (MSE)**.
 
----
 
 ## 🛠️ Tech Stack  
 - **Python** 🐍  
